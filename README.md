@@ -1,19 +1,19 @@
 
-# 🟨 BLINKIT OUTLET SALES DASHBOARD
+#  BLINKIT OUTLET SALES DASHBOARD
 
-## 📊 Overview
+##  Overview
 This Power BI dashboard provides insights into Blinkit's retail outlet performance, including product-level sales, outlet type efficiency, visibility impact, and operational metrics.
 
 ---
 
-## 🔧 Tools Used
+##  Tools Used
 - Power BI Desktop
 - Dataset: BlinkIt Grocery Data.csv
 
 ---
 
 
-## 🔍 Key KPIs
+##  Key KPIs
 
 - **Total Sales**: $1.2M
 - **Avg Rating**: 3.92
@@ -22,7 +22,7 @@ This Power BI dashboard provides insights into Blinkit's retail outlet performan
 
 ---
 
-## 📈 Dashboard Sections
+##  Dashboard Sections
 
 | Section             | Visual Type       | Description                                |
 |---------------------|-------------------|--------------------------------------------|
@@ -35,7 +35,7 @@ This Power BI dashboard provides insights into Blinkit's retail outlet performan
 
 ---
 
-## 🧩 Interactivity
+##  Interactivity
 
 - Slicers for:
   - Item Type  
@@ -49,7 +49,7 @@ This Power BI dashboard provides insights into Blinkit's retail outlet performan
 
 ---
 
-## 📌 Insights
+##  Insights
 
 - Snack Foods and Dairy dominate sales.
 - Supermarket Type 1 contributes most revenue in Tier 2 cities.
